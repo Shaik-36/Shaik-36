@@ -22,9 +22,13 @@
 ---
 
 ## 📊 **GitHub Stats**
-![Shaik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaik-36&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaik-36&layout=compact&theme=react&langs_count=5)](https://github.com/Shaik-36/github-readme-stats)
-[![Shaik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shaik-36&theme=radical)](https://git.io/streak-stats)
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Shaik-36&show_icons=true&theme=radical" alt="Shaik's GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaik-36&layout=compact&theme=react&langs_count=6" alt="Shaik's Top Languages" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Shaik-36&theme=radical" alt="Shaik's GitHub Streak" />
+</div>
+
 
 ---
 
