@@ -30,8 +30,32 @@
 </div>
 
 
-### 📈 **GitHub Contribution Graph**
-![GitHub Contributions](https://github-contributions-chart.vercel.app/api?username=Shaik-36&theme=react-dark)
+## 📊 **Activity Metrics**
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Metric</th>
+      <th>Count</th>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Commits-120-green?style=for-the-badge&logo=github" alt="Commits" /></td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/PRs-45-green?style=for-the-badge&logo=git" alt="Pull Requests" /></td>
+      <td>45</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Issues-30-green?style=for-the-badge&logo=github-issues" alt="Issues" /></td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Stars-50-green?style=for-the-badge&logo=github" alt="Stars" /></td>
+      <td>50</td>
+    </tr>
+  </table>
+</div>
 
 
 ## 🚀 **What I'm Currently Working On**
