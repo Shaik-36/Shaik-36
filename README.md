@@ -29,9 +29,10 @@
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Shaik-36&theme=radical" alt="Shaik's GitHub Streak" />
 </div>
 
+
 ### 📈 **GitHub Contribution Graph**
-[![Shaik's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shaik-36&theme=react-dark&hide_border=true)](https://github.com/Shaik-36/github-readme-activity-graph)
----
+![GitHub Contributions](https://github-contributions-chart.vercel.app/api?username=Shaik-36&theme=react-dark)
+
 
 ## 🚀 **What I'm Currently Working On**
 - 🔨 Building and enhancing features for the [Blog Website](https://blog-appwrite-five.vercel.app/).
