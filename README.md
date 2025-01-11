@@ -33,7 +33,7 @@
 ## 🌟 **Activity Overview**
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Shaik-36&chart=radar&theme=react-dark&metrics=commits,pull-requests,issues,code-reviews" alt="GitHub Activity Overview" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Shaik-36&chart=radar&metrics=commits,pull-requests,issues,code-reviews&theme=react-dark" alt="GitHub Activity Overview Radar Chart" />
 </div>
 
 
