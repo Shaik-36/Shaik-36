@@ -4,7 +4,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-003E6B?style=flat-square&logo=vercel)](https://imamuddin-shaik.vercel.app/)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Imam_Shaik_)
 
-👋 Hi, I'm **Shaik Imamuddin**, a passionate Full Stack Developer with a focus on building scalable, efficient, and user-friendly applications. I thrive on leveraging modern technologies to create impactful solutions.
+Full Stack Developer 
 
 ---
 
