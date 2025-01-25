@@ -44,23 +44,6 @@ Full Stack Developer
 
 ---
 
-## 🎯 **Recent Projects**
-### 1. **YouTube Backend**
-- **Tech Stack**: Node.js, Express.js, MongoDB
-- 🔒 Built secure authentication (JWT, bcrypt) for 10k+ users.
-- ⚡ Enhanced API performance by 40% using Mongoose aggregation.
-
-### 2. **Blog Website**
-- **Tech Stack**: React.js, Redux Toolkit, Appwrite
-- 🌟 Achieved 25% faster load times and improved accessibility by 30%.
-- 📝 Integrated TinyMCE editor for seamless blogging.
-
-### 3. **Currency Converter**
-- **Tech Stack**: React.js, TailwindCSS, REST API
-- 💹 Live exchange rates for 100+ currencies with 99.9% accuracy.
-
----
-
 ## 🌱 **What I'm Learning**
 - 🧠 Advanced Python for AI and Machine Learning
 - 📊 Data visualization techniques using Streamlit
