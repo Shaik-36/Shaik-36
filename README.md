@@ -67,41 +67,39 @@
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Shaik-36&theme=radical" alt="Shaik's GitHub Streak" />
 </div>
 
----
+## 🚀 What I’ve Done
 
-## 🚀 **What I’ve Done**
-- 💻 Engineered **YouTube backend systems** with APIs, user interactions, and video management capabilities.
-- 📚 Developed a **scalable Blog Website** with **Appwrite backend**, handling high volumes of content and user interactions.
-- 💬 Built a **real-time chat application** with seamless **frontend and backend integration** using **WebSocket technology**.
-- 🏪 Deployed **E-Commerce and POS systems** using **C#, ASP.NET MVC, SQL Server**, ensuring secure transactions and high performance.
-- 📑 Created dynamic form-based applications with validation and optimized databases using **C# and ASP.NET**.
-- 🏭 Implemented **warehouse inventory management systems** and barcode verification solutions, enhancing operational efficiency.
-- 🐍 Built comprehensive **Python and Django-based applications**, including:
-  - [YouTube Manager in Python](https://github.com/Shaik-36/youtube-manager)
-  - [Django Learning Guide](https://github.com/Shaik-36/django-learn)
-- 📊 Designed and deployed **AI and machine learning models** for predictive analytics and healthcare applications:
-  - [Covid-19 Prediction](https://github.com/Shaik-36/Covid-19-Prediction-using-Machine-Learning)
+- 📞 Engineered an **AI-driven workforce SaaS (ZenithForce)** using **FastAPI**, **Twilio**, **MongoDB**, and **GCP**, automating voice/SMS shift confirmations, inbound call transcripts, and live dashboards.
+- 💬 Built a full-stack **Real-Time Chat App** with **React**, **Node.js**, **Socket.IO**, and **MongoDB**, featuring group messaging and real-time delivery.
+- 🐦 Developed a **Twitter Clone** with **Next.js**, **GraphQL**, **Prisma**, and **PostgreSQL**, including typed queries, Google OAuth login, and tweet/follow/like flows.
+- 🌐 Architected and deployed **ZenithWave Capital's main website** using **Next.js**, **Firebase**, **Tailwind CSS**, and integrated **LearnWorlds LMS** with CI/CD pipelines and developer docs.
+- 📚 Built a **Blog Website** using **React.js**, **Redux Toolkit**, **Appwrite**, and **Cloudinary**, optimizing performance and accessibility for 500+ users.
+- 🛒 Designed and deployed **E-Commerce & POS systems** using **C#**, **VB.NET**, **ASP.NET MVC**, and **SQL Server**, with barcode systems and daily financial reports.
+- 🧠 Built several **AI and ML-powered projects**, including:
   - [Stock Price Prediction](https://github.com/Shaik-36/stock-price-prediction-dissertation)
   - [Heart Failure Detection](https://github.com/Shaik-36/heartfailure-detection)
+  - [Covid-19 Prediction](https://github.com/Shaik-36/Covid-19-Prediction-using-Machine-Learning)
   - [Gemini Quiz Generator](https://github.com/Shaik-36/Gemini-Quiz-Generator)
-- 🌍 Explore more in [My GitHub Repositories](https://github.com/Shaik-36)
+- 📦 Developed **admin dashboards**, **event forms**, and **student registration portals** with **C#**, **ASP.NET**, and **SQL Server**.
+- 🌍 View more at [My GitHub Repositories](https://github.com/Shaik-36)
 
 ---
 
-## 🚧 **What I'm Currently Working On**
-- 🔨 Architecting and deploying **full-stack applications** with **Next.js**, **React.js**, **Tailwind CSS**, **Firebase**, and **Azure**.
-- 🏥 Developing **secure systems for healthcare AI startups**, collaborating with founders on scalable, impactful solutions.
-- 🤖 Advancing **LLM (Large Language Models)** and **Machine Learning** integration for data analysis, content generation, and automation.
-- 🎨 Pioneering **vibe coding projects**, blending creativity, design, and AI for interactive experiences.
-- 🌐 Contributing to the growth of [ZenithWave Capital](https://www.zenithwavecapital.com).
+## 🚧 What I'm Currently Working On
+
+- 🎯 Leading development of a **commercial-grade AI SaaS platform** for security & cleaning companies with **real-time calling bots**, shift status tracking, and AI-powered inbound query handling.
+- 🌐 Enhancing **ZenithWave Capital’s fintech learning ecosystem** with automated reporting, AI-powered dashboards, and multi-tenant support.
+- 🧠 Advancing **LLM-based tools** with **LangChain**, **RAG pipelines**, **OpenAI API**, and embeddings for smart shift management and content generation.
+- 🧪 Scaling and refining **CI/CD pipelines** via **GitHub Actions**, **Vercel**, and **Railway**, with full testing via **Playwright** and **Jest**.
 
 ---
 
-## 🌱 **What I'm Learning**
-- 🤖 Mastering **LLMs and prompt engineering** for advanced AI solutions.
-- 📝 Exploring **generative AI** for multimodal content creation.
-- 💻 Innovating with **vibe coding** that combines technology, creativity, and storytelling.
+## 🌱 What I'm Learning
 
+- 🤖 Deep-diving into **Large Language Models**, prompt engineering, and multi-agent systems.
+- ⚙️ Learning advanced **system design**, caching strategies, event-driven architecture, and microservices.
+- 🧪 Implementing **DevOps workflows** with **Docker**, **Kubernetes**, **GitHub Actions**, and **Infrastructure-as-Code**.
+- 🎨 Innovating with **"vibe coding"**—mixing creative frontend animations, live dashboards, and AI chatbots for next-gen user interfaces.
 
 ---
 
