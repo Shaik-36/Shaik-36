@@ -1,10 +1,7 @@
-# Imamuddin Shaik - Full Stack Developer
-
+# Imamuddin Shaik - Full-Stack AI Engineer | LLM & RAG Specialist | PyData Speaker
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shaik-imam/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-003E6B?style=flat-square&logo=vercel)](https://imamuddin-shaik.vercel.app/)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Imam_Shaik_)
-
-🚀 **Full-Stack AI Engineer | LLM & RAG Specialist | PyData Speaker**
 
 ---
 
