@@ -4,7 +4,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-003E6B?style=flat-square&logo=vercel)](https://imamuddin-shaik.vercel.app/)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Imam_Shaik_)
 
-🚀 **Full Stack and AI Developer | Trying to become a Polymath**
+🚀 **Full-Stack AI Engineer | LLM & RAG Specialist | PyData Speaker**
 
 ---
 
